@@ -1,0 +1,1 @@
+web: gunicorn SuperApi.wsgi --log-file -
