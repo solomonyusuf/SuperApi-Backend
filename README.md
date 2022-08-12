@@ -1,2 +1,2 @@
 # SuperApi-Backend
-A backend created with Django,for uploading sermons and videos. 
+A backend created with Django,for uploading audio and videos. 
